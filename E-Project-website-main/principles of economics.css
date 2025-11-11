@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.heading{
+    color: navy;
+}
+
+table th{
+    background-color: rgb(169, 169, 252);
+    font-weight: bolder;
+}
+
+table td{
+    font-weight: bolder;
+}
